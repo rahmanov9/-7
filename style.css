@@ -1,0 +1,64 @@
+body {
+  background-image: url(https://oir.mobi/uploads/posts/2021-06/1623923639_14-oir_mobi-p-plyazh-vid-sverkhu-priroda-krasivo-foto-14.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.block {
+  padding: 50px;
+  /* margin: 100px 100px 100px 400px; */
+  position: relative;
+  left: 400px;
+  top: 100px;
+  width: 900px;
+  height: 700px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
+  border: 5px solid black;
+}
+.text {
+  width: 350px;
+  height: 30px;
+  margin-left: 20px;
+  background-color: aquamarine;
+}
+.text_2 {
+  display: flex;
+}
+h4 {
+  padding-right: 50px;
+}
+.email {
+  width: 730px;
+  height: 30px;
+  margin-left: 20px;
+  background-color: aquamarine;
+}
+.number {
+  width: 224px;
+  height: 30px;
+  margin-left: 20px;
+  position: relative;
+  right: -27px;
+  background-color: aquamarine;
+}
+.other {
+  width: 861px;
+  height: 30px;
+  position: relative;
+  right: 10px;
+  background-color: aquamarine;
+}
+textarea {
+  resize: none;
+  position: relative;
+  right: -30px;
+  background-color: aquamarine;
+}
+.submit {
+  color: aliceblue;
+  background-color: ;
+  background-color: aquamarine;
+  width: 750px;
+  height: 60px;
+  margin-left: 145px;
+}
